@@ -8,6 +8,6 @@ Student at UCL :  ********** January 2018 - May 2018 **********
 
 
 # Restoration of an old movie
-Detection of scene cuts, correction of blotches, reducing shaking using RANSAC algorithm, reducing flickers intensity
+Detection of scene cuts, correction of blotches, reducing shaking using RANSAC algorithm, reducing flickers in intensity
 
 Student at UCL :  ********** January 2018 - May 2018 **********
