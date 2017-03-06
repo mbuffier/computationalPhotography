@@ -1,5 +1,4 @@
-# computationalPhotography
-Computational photography project
+# Computational Photography projects
 
 # Creation of an heliotrope controllable video
 Creation of a distance image between frames, creation of a graph incoding the distance, creation of an user interface to be able to choose the wanted path.
